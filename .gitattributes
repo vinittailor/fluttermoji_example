@@ -1,0 +1,9 @@
+*.dart linguist-detectable=true
+*.flutter linguist-detectable=true
+*.cmake linguist-detectable=false
+*.html linguist-detectable=false
+*.c linguist-detectable=false
+*.cc linguist-detectable=false
+*.objectivec linguist-detectable=false
+*.cpp linguist-detectable=false
+CMakeLists.txt linguist-detectable=false
