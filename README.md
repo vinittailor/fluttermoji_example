@@ -37,3 +37,8 @@ Excited to see how you personalize your Flutter apps with Fluttermoji!
 
 # Official Package Link: https://pub.dev/packages/fluttermoji
 
+
+# Demo:
+
+https://github.com/vinittailor/fluttermoji_example/assets/108751165/fefc0a77-1dd2-45fa-b778-18468c5c4aaf
+
