@@ -26,12 +26,14 @@ Customization complexity: Extensive customization options might require more dev
 ### Use Cases:
 
 Personalized User Profiles: Allow users to create unique avatars that represent their individuality within your app.
+
 Interactive Chat Features: Enhance user engagement by letting users customize avatars for chat bubbles or profiles.
+
 Gamification Elements: Integrate Fluttermoji avatars into your game's character creation or reward systems.
+
 Social Applications: Enable users to personalize their profiles and express themselves creatively on social platforms.
+
 Excited to see how you personalize your Flutter apps with Fluttermoji!
 
 # Official Package Link: https://pub.dev/packages/fluttermoji
 
-
-# This package is 
