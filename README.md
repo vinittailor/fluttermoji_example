@@ -18,7 +18,7 @@ Highly customizable: Create a vast variety of unique avatars.
 Easy to use: Simple integration with clear documentation.
 Supports Material Design: Maintains a consistent look and feel.
 
-### Cons of Fluttermoji (Optional):
+### Cons of Fluttermoji:
 
 Limited animation support: Currently focuses on static avatars.
 Customization complexity: Extensive customization options might require more development effort.
